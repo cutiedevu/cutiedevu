@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **web devoloping**
 
-- ⚡ **Chips is a developer’s best framework. ☕**
+- ⚡ **Too cute to handle,too cool to care😏.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
