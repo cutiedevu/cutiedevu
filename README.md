@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Discord bot devo**
 
-- 👨‍💻 All of my projects are available at [https://cutiedevumax.netlify.app/](https://cutiedevumax.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://cutiedevumax.netlify.app/](https://cutiedevu.github.io/cutiedevuweb/)
 
 - 💬 Ask me about **web devoloping**
 
@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://instagram.com/koolutai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="koolutai" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@cutiedevu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cutiedevu" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/invite/2CVQcpPVej" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/2CVQcpPVej" height="30" width="40" /></a>
+<a href="https://discord.com/users/1419682706572316682" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/2CVQcpPVej" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
