@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Discord bot devo**
 
-- 👨‍💻 All of my projects are available at [My Own Website](https://cutiedevu.github.io/cutiedevuweb/)
+- 👨‍💻 All of my projects are available at [My Own Website](https://cutiedevu.vercel.app/)
 
 - 💬 Ask me about **web devoloping**
 
